@@ -4,11 +4,40 @@ description: RedNote (Xiaohongshu) viral title and cover-copy library — 12 pro
 version: 1.0.0
 author: RAY
 license: CC-BY-4.0
-tags: [rednote, xiaohongshu, social-media, titles, content-marketing, hooks]
+tags: "[rednote, xiaohongshu, social-media, titles, content-marketing, hooks]"
 metadata:
-  pricing: $9 / one-time (category hook library + A/B testing playbook $19)
-  category: social-media-automation
-  audience: content-creators, brand-accounts, cross-border-sellers
+
+pricing:
+  free: Free — 10 titles/month (12 formulas)
+  pro: $9/month — category hook library + cover copy + A/B playbook
+  annual: $90/year
+  pay_per_use: $3 one-time (10-pack)
+  enterprise: $99/month (brand term bank + competitor watch)
+tiers:
+  - id: free
+    name: Free
+    price: Free
+    quota: Free — 10 titles/month (12 formulas)
+  - id: pro
+    name: Pro Monthly
+    price: $9/month — category hook library + cover copy + A/B playbook
+    quota: unlimited
+  - id: annual
+    name: Pro Annual
+    price: $90/year
+    quota: unlimited
+  - id: enterprise
+    name: Enterprise
+    price: $99/month (brand term bank + competitor watch)
+    quota: team unlimited
+monetization:
+  model: freemium_subscription
+  currency: USD
+  paywall_trigger: free quota exhausted
+  trial_days: 7
+  free_trial: true
+  upgrade_path: Pro Monthly -> Pro Annual -> Enterprise
+
 ---
 
 # RedNote Title & Cover Copy Pack
