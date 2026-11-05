@@ -12,7 +12,6 @@
 | **Pro Monthly** | **$9/month — category hook library + cover copy + A/B playbook** | Unlimited + full Pro pack + export + template library |
 | Pro Annual | $90/year | Same Pro benefits, annual discount |
 | Enterprise | $99/month (brand term bank + competitor watch) | Team unlimited + enterprise templates |
-| Pay per use | $3 one-time (10-pack) | Zero-friction entry for low-frequency users |
 
 ## 2. Pricing skeleton
 
@@ -24,7 +23,7 @@ predictable revenue, heavy-user value captured.
 ```text
 Free tier (Free — 10 titles/month (12 formulas))
   → quota exhausted -> paywall prompt
-  → 7-day free trial (no card required)
+  → subscribe on Agensi: https://www.agensi.io/skills/rednote-title-cover-copy-pack
   → Pro Monthly $9/month — category hook library + cover copy + A/B playbook
   → Pro Annual $90/year
   → Enterprise $99/month (brand term bank + competitor watch)
@@ -32,8 +31,6 @@ Free tier (Free — 10 titles/month (12 formulas))
 
 ## 4. Success metrics (3 months)
 
-- Free → trial ≥ 15%
-- Trial → paid ≥ 25%
 - Monthly retention ≥ 60%
 - NPS ≥ 45
 
