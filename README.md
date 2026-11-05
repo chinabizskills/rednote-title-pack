@@ -3,7 +3,7 @@
 > RedNote (Xiaohongshu) viral title and cover-copy library — 12 proven title formulas, keyword placement rules, cover text specs, A/B variants, and category-specific opening hooks. RedNote's international wave makes this the cross-border content cheat code.
 
 **Category:** social-media-automation  |  **License:** CC-BY-4.0  |  **Version:** 1.0.0
-**Price:** Free on GitHub & skills.sh (CC BY 4.0). Curated bundle on Gumroad: $9 (Pro $19).
+**Price:** Free on GitHub & skills.sh (CC BY 4.0). Pro & Enterprise on Agensi: $9/month · $90/year · $99/month.
 
 ## What it does
 
@@ -37,7 +37,19 @@ Or clone: `git clone https://github.com/chinabizskills/rednote-title-pack.git`
 
 ## Pricing & license
 
-Licensed under **CC BY 4.0** — free to use, share, and adapt (attribution required). A curated, expanded bundle (with the Pro templates) is sold on Gumroad for $9 (Pro $19). The free GitHub/skills.sh version is the complete, working skill.
+Free on GitHub & skills.sh under **CC BY 4.0** — the complete core workflow, free to use, share and adapt (attribution required).
+Pro and Enterprise are subscriptions on Agensi:
+
+| Tier | Price | What you get |
+|---|---|---|
+| Free | $0 | 10 titles/month (12 formulas) |
+| Pro Monthly | $9/month | category hook library + cover copy + A/B playbook |
+| Pro Annual | $90/year | Same Pro benefits, billed yearly |
+| Enterprise | $99/month | brand term bank + competitor watch |
+
+Subscribe: https://www.agensi.io/skills/rednote-title-cover-copy-pack
+
+Licensed under **CC BY 4.0** — free to use, share, and adapt (attribution required).
 
 ## Tags
 
