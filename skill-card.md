@@ -18,7 +18,7 @@ RedNote (Xiaohongshu) viral title and cover-copy library — 12 proven title for
 
 ## Pricing
 
-Free (CC BY 4.0) on GitHub & skills.sh. Curated bundle on Gumroad: $9 (Pro $19).
+Free (CC BY 4.0) on GitHub & skills.sh. Pro $9/month · Pro Annual $90/year · Enterprise $99/month on Agensi: https://www.agensi.io/skills/rednote-title-cover-copy-pack
 
 ## Known Risks and Mitigations
 
